@@ -226,7 +226,6 @@ Additional endpoints are being developed for OTP verification, candidates, votin
 **Work in Progress 🚧**
 
 ### Completed / In Progress
-
 - [x] Project structure
 - [x] React frontend setup
 - [x] Node.js + Express backend setup
@@ -243,7 +242,6 @@ Additional endpoints are being developed for OTP verification, candidates, votin
 - [ ] Deployment
 
 ## 🎯 Future Improvements
-
 - Improve the admin dashboard
 - Add better input validation
 - Add stronger access control
